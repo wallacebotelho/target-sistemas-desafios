@@ -1,0 +1,14 @@
+# VARIAVEIS
+INDICE = 13
+SOMA = 0
+K = 0
+
+# CONDICIONAL
+while K < INDICE:
+    K = K + 1
+    SOMA = SOMA + K
+
+# IMPRESSÃO
+print(SOMA)
+
+# O RESULTADO SERÁ (91)
